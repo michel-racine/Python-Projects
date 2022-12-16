@@ -1,2 +1,4 @@
 # Python-Projects
-Python working examples various
+cobra.py  Interative C console for python. Experimental, it is good to test small units of code.
+See the demo here https://youtu.be/vA1irQxPzro
+
